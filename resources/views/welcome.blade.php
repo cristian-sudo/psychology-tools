@@ -15,7 +15,7 @@
             <div class="flex w-full justify-center">
                 <p class="mb-4 text-center text-gray-700">
                     Please <a href="{{ route('login') }}" class="text-blue-500 hover:underline">log in</a> or
-                    <a href="{{ route('register') }}" class="text-blue-500 hover:underline">register</a> to create posts and leave comments.
+                    <a href="{{ route('register') }}" class="text-blue-500 hover:underline">register</a> to create posts and like posts.
                 </p>
             </div>
         @endguest
